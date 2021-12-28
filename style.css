@@ -355,7 +355,7 @@ header .navbar ul li a:hover {
 .divSpan p{
  color:var(--yellow);
  display: inline-flex;
- padding:0 0.5rem;
+ padding:0 1rem;
 }
 .titleDescription{
   display: inline-flex;
@@ -472,8 +472,8 @@ header .navbar ul li a:hover {
 
 .portfolio .box-container .box h3 {
   text-align: center;
-  margin:2rem auto;
-  padding:2rem 2rem;
+  /* margin:2rem auto; */
+  padding:1rem 2rem;
   font-size: 2rem;
 }
 .portfolio .box-container .box h3 a {
