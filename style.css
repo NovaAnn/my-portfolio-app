@@ -407,7 +407,7 @@ header .navbar ul li a:hover {
   }
 }
 .portfolio .box-container .box {
-  height: 30rem;
+  height: 35rem;
   max-width: 60%;
   display: flex;
   flex-direction: column;
